@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=board
+comment1.target=void\ printChessBoard(char[][])
+comment2.params=row\ col\ logicalBoard
+comment2.target=void\ updateChessBoard(int,\ int,\ boolean[][])
+comment3.params=original
+comment3.target=char[][]\ copyArray(char[][])
+comment4.params=original
+comment4.target=boolean[][]\ copyArray(boolean[][])
+comment5.params=board\ logicalBoard\ rowNumber
+comment5.target=void\ arrangeQueens(char[][],\ boolean[][],\ int)
+comment6.params=
+comment6.target=void\ arrangeQueens()
+numComments=7
